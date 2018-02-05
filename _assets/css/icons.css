@@ -1,0 +1,22 @@
+.blitzorange,
+.blitzweiss,
+.ticketorange {
+    width: 15px;
+    height: 25px;
+    display: inline-block;
+}
+
+.augeorange {
+    width: 20px;
+    height: 15px;
+    display: inline-block;
+    margin-left: 14px;
+    padding-bottom: 3px;
+}
+
+.ticketorange {
+    margin-left: 9px;
+}
+.blitzweiss {
+
+}
